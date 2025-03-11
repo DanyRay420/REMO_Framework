@@ -6,3 +6,4 @@ scikit-learn
 tensorflow
 tensorflow-hub
 PyYAML
+keras>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
